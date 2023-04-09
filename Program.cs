@@ -8,6 +8,7 @@ class Program
 
         // Membaca konfigurasi dari file
         CovidConfig config = LoadConfig();
+
         //MEMANGGIL METHOD UBAHSATUAN
         config.UbahSatuan();
 
