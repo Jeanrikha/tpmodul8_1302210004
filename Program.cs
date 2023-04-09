@@ -2,16 +2,23 @@
 using tpmodul8_1302210004;
 class Program
 {
+
     static void Main(string[] args)
     {
+
         // Membaca konfigurasi dari file
         CovidConfig config = LoadConfig();
+        //MEMANGGIL METHOD UBAHSATUAN
+        config.UbahSatuan();
 
         // meminta inputan suhu badan dan lama gejala demam
         Console.Write($"Berapa suhu badan anda saat ini? Dalam nilai {config.SatuanSuhu}: ");
+
         float suhu = float.Parse(Console.ReadLine());
+
         Console.Write("Berapa hari yang lalu (perkiraan) anda terakhir memiliki gejala demam? ");
         int hariDeman = int.Parse(Console.ReadLine());
+        
 
         // Menentukan apakah diperbolehkan masuk atau tidak berdasarkan config dan input user
         if (cekSuhu(config, suhu) && lamaDemam(config, hariDeman))
