@@ -1,0 +1,5 @@
+{
+  "satuan_suhu": "CONFIG1",
+  "batas_hari_deman": "CONFIG2",
+  "pesan ditolak": "CONFIG3", "pesan diterima": "CONFIG4"
+}

@@ -13,3 +13,5 @@ C:\Users\ASUS\source\repos\tpmodul8_1302210004\tpmodul8_1302210004\obj\Debug\net
 C:\Users\ASUS\source\repos\tpmodul8_1302210004\tpmodul8_1302210004\obj\Debug\net6.0\tpmodul8_1302210004.pdb
 C:\Users\ASUS\source\repos\tpmodul8_1302210004\tpmodul8_1302210004\obj\Debug\net6.0\tpmodul8_1302210004.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\tpmodul8_1302210004\tpmodul8_1302210004\obj\Debug\net6.0\ref\tpmodul8_1302210004.dll
+C:\Users\ASUS\source\repos\tpmodul8_1302210004\tpmodul8_1302210004\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\tpmodul8_1302210004\tpmodul8_1302210004\obj\Debug\net6.0\tpmodul8_1302210004.csproj.CopyComplete

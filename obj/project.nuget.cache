@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FwhHGzwsjvzU/IhtFrfrI3N3eQZ68DuaIEoWlFYAS0LS6prTxVvPGJANJnwWS5rml2O/QBSYjCecmWHz9tdiEQ==",
+  "dgSpecHash": "duG+FVbfGcOARTYMZYUlU+gpBfcGJ6jLUEHUEvcJvIiNuEjVftn/6GMhXADmSc6s0SpZu49CEIaFe1yIeVxgtQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\tpmodul8_1302210004\\tpmodul8_1302210004\\tpmodul8_1302210004.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
